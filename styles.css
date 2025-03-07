@@ -3,8 +3,8 @@
 
 :root {
     --laranja-claro: #e033e6;
-    --alto-contraste-fundo: #fda2fd;
-    --alto-contraste-texto: #000000;
+    --alto-contraste-fundo: #000000;
+    --alto-contraste-texto: #fffefe;
     --alto-contraste-link: #8a2297;
 }
 
@@ -103,7 +103,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #d1d1d1;
 
 }
 
@@ -138,7 +138,7 @@ h2 {
 }
 
 .form-control {
-    background-color: #000000;
+    background-color: #ffffff;
 }
 .menu-acessibilidade{
     position: fixed;
